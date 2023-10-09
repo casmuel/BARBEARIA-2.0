@@ -9,3 +9,11 @@ navi li {
 nav a {
   text-transform: upercase;
 }
+
+
+
+nav {
+  position:absolute;
+  top : 0;
+  right: 0;
+}
